@@ -1,0 +1,140 @@
+body {
+	font-family: "Arial", "helvetical", sans-serif;
+	font-size: 10pt;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	scrollbar-face-color:#828CA5;
+	scrollbar-highlight-color:#FFFFFF;
+	scrollbar-3dlight-color:#FFFFFF;
+	scrollbar-darkshadow-color:#7B888B;
+	scrollbar-shadow-color:#666666;
+	scrollbar-arrow-color:#000000;
+	scrollbar-track-color:#000000;
+}
+
+a {
+	font-family: "Arial", "helvetical", sans-serif;
+	font-size: 10pt;
+	color: white;
+}
+
+a:hover {
+	color:silver;
+}
+
+.currentInterests {
+	font-size: 6pt;
+	}
+
+a.topNavigationLink {
+	color: #FFFFFF;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+a.topNavigationLink:hover {
+	color: #FFFFFF;
+}
+
+a.footerNav {
+	color: #FFFFFF;
+	font-weight: bold;
+}
+
+a.footerNav:hover {
+	color: silver;
+}
+
+td {
+	font-family: "Arial", "helvetical", sans-serif;
+	font-size: 10pt;
+}
+
+.topNavigationCellOFF {
+	background-color: #828CA5;
+	cursor: default;
+}
+
+.topNavigationCellON {
+	background-color: #666666;
+	cursor: pointer;
+}
+
+p {
+	font-family: "Arial", "helvetical", sans-serif;
+	font-size: 10pt;
+}
+
+h1 {
+	font-family: "Arial", "helvetical", sans-serif;
+	font-size: 18pt;
+	font-weight: none;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+
+h2 {
+	font-family: "Verdana", "Arial", "helvetical", sans-serif;
+	font-size: 10pt;
+	font-weight: bold;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+
+h3 {
+	font-family: "Verdana", "Arial", "helvetical", sans-serif;
+	font-size: 10pt;
+	font-weight: bold;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+
+.removePadding {
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+
+.worksInProgressImageCell {
+	border-top-style: solid;
+	border-top-width: 3px;
+	border-top-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 3px;
+	border-bottom-color: #000000;
+	
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+
+a.wipInfo {
+	color:white;
+}
+
+a.wipInfo:hover {
+	color:silver;
+}
+
+.currentInterests img{
+	margin: 5px;
+	}
+
+.copyright {
+	font-size: 8pt;
+}
+
+.submitForm {
+	margin-top:5px;
+	width: 50px;
+	}

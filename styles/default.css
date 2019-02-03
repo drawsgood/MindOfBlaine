@@ -1,0 +1,133 @@
+.headerNav {
+	background color: #EFEFEF;
+	width: 601px;
+	height: 25px;
+	color: #848484;
+	font-size: 12px;
+	padding-top: 5px;
+	padding-right: 10px;
+	
+}
+
+
+.contentBody td {
+	font-family: "Arial";
+	font-size: 10px;
+	text-decoration:none;
+	}
+	
+
+.leftNavigationCellOFF {
+	background-color: #79A5D3;
+	cursor: default;
+	color: #FFFFFF;
+	height:25px;
+	padding-top:5px;
+	padding-right:4px;
+	margin-top:7px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #5F82A6;
+
+}
+
+p.leftNavigationCellOFF a{
+	background-color: #79A5D3;
+	cursor: default;
+	color: #FFFFFF;
+	text-decoration:none;
+	height:25px;
+	padding-top:5px;
+	padding-right:4px;
+	margin-top:7px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #5F82A6;
+
+
+}
+
+p.leftNavigationCellON {
+	background-color: #5F82A6;
+	cursor: pointer;
+	color: #FFFFFF;
+	text-decoration: none;
+	height:25px;
+	padding-top:5px;
+	padding-right:4px;
+	margin-top:7px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #5F82A6;
+
+
+
+}
+
+p.leftNavigationCellON a{
+	background-color: #666666;
+	cursor: pointer;
+	color: #FFFFFF;
+	text-decoration: none;
+	height:25px;
+	padding-top:5px;
+	padding-right:4px;
+	margin-top:7px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #5F82A6;
+
+
+
+
+}
+
+
+
+
+.mainContent p{
+	padding-right: 30px;
+	padding-left: 35px;
+	font-size: 11px;
+
+}
+
+.mainContent h1{
+	font-family: "Arial";
+	color: #79A5D3;
+	font-size: 24px;
+	padding-left: 30px;
+}
+
+.rightBoxes h1{
+	font-family: "Arial";
+	font-size:12px;
+	color: #FFFFFF;
+	background-color: #79A5D3;
+	width: 150px;
+	padding-left:4px;
+	padding-top:1px;
+}
+
+.rightBoxes p{
+	font-family: "Arial";
+	font-size:10px;
+	color: #000000;
+	background-color: #EFEFEF;
+	width: 150px;
+	padding-top:5px;
+	padding-right:5px;
+	padding-left:5px;
+	padding-bottom:8px;
+	margin-top:-10px;
+
+}
+
+.footer (
+	color: #000000;
+	padding-top:20px;
+	}
+	
+.footer p {
+	padding-top:10px;
+}
